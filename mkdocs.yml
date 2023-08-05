@@ -1,1 +1,15 @@
 site_name: Mastering Carnatic Music
+theme:
+  #name: readthedocs
+  name: mkdocs
+  logo: /assets/logo.png
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+  analytics:
+    gtag: G-ABC123
+  nav_style: dark
+  sticky_navigation: true
+#extra_css:
+#  - stylesheet/extra.css
