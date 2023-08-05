@@ -11,5 +11,6 @@ theme:
     gtag: G-ABC123
   nav_style: dark
   sticky_navigation: true
+
 #extra_css:
 #  - stylesheet/extra.css
